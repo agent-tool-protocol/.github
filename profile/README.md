@@ -46,10 +46,9 @@ ATP was designed to:
 
 | Repository | Description |
 |------------|-------------|
-| [`atp-spec`](https://github.com/agent-tool-protocol/spec) | Protocol specification and design principles |
-| [`atp-sdk`](https://github.com/agent-tool-protocol/atp-sdk) | Python SDK for building and publishing ToolKits |
-| [`chatatp`](https://github.com/chatatp/chatatp) | Agent runtime with full ATP protocol support |
-| [`toolkitstore`](https://github.com/Chat-ATP/toolkitstore) | (Coming soon) ToolKit discovery platform |
+| [`specification`](https://github.com/agent-tool-protocol/spec) | Protocol specification and design principles |
+| [`python-sdk`](https://github.com/agent-tool-protocol/python-sdk) | Python SDK for building and publishing ToolKits |
+| [`toolkit store`](https://github.com/Chat-ATP/toolkitstore) | (Coming soon) ToolKit discovery platform |
 | [`examples`](https://github.com/agent-tool-protocol/examples) | Sample ToolKits for Github, Coingecko, Hubspot, etc. |
 
 ---
